@@ -79,13 +79,14 @@ python rainfall_in_india.py
 ```
 3. Explore the Results
 Visualizations, insights, and processed outputs will be displayed or saved automatically, depending on the implementation.
+---
 
 ##📈 Examples
 Sample Outputs:
 Heatmap: Visualizes monthly rainfall distribution across Indian states.
 Line Graph: Depicts annual rainfall trends in a specific region.
 Bar Chart: Compares average yearly rainfall for different states.
-
+--- 
 ##🌱 Future Enhancements
 🔮 Machine Learning Models
 Build predictive models to forecast future rainfall patterns.
@@ -95,10 +96,11 @@ Connect to live weather APIs for real-time rainfall data and insights.
 Develop a user-friendly web app for interactive exploration and visualization of rainfall data.
 🗺️ GIS Mapping
 Add geospatial maps for region-specific rainfall analysis.
-
+---
 ##📝 License
 This project is licensed under the MIT License. Feel free to use, modify, and distribute it as per the terms of the license.
-
+---
 ##🤝 Connect with Me
 🌐 GitHub: sujalbafna
 📧 Email: bafna3249@gmail.com
+---
